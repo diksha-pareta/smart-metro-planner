@@ -114,7 +114,7 @@ Visit the app at: [http://localhost:5173](http://localhost:5173)
 
 >  *If deployed, add the actual link below:*
 
- [https://smartmetroai.netlify.app](https://smartmetroai.netlify.app)
+ [Smart Metro Planner](https://smart-metro-planner.netlify.app)
 
 ---
 
